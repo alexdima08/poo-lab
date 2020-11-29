@@ -653,7 +653,7 @@ public:
         cout<<"Va rog introduceti un target: ";
         cin>>target;
         cout<<"In acest interval de "<<nr<<" zile,avem un target de: "<<target<<" vanzari"<<endl;
-        nr_accesorii = new int[nr];
+        int *nr_accesorii = new int[nr];
         for (int i = 0;i < nr;i++)
         {
             cout<<"In ziua "<<i+1<<" s-au vandut un nr de ";
