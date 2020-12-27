@@ -1,0 +1,15 @@
+2
+caine
+labrador
+39.33
+60.99
+1
+3
+f
+pisica
+birmaneza
+22.99
+40.73
+1
+2
+m
